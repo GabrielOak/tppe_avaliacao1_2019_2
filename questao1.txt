@@ -1,0 +1,17 @@
+Questão 1 - 
+A) Toda interface publicada é uma inteface puclica, mas que nem toda interface publica é uma interface publicada.
+A interface publica tem os seus objetos publicos e disponíveis. A interface publicada é uma espécie de abtração.
+
+B)Na cirurgia com rifle uma mudança afeta várias classes, enquanto nas mudanças divergente, uma classe sofre várias mudanças.
+Na cirurgia com rifle, ao realizar uma mudança, várias classes devem sofrer modificações, tornando assim, dificil de de encontrar
+todos os lugares afetadoes e facilita o esquecimento de alguma modificação.
+Nas mudanças divergentes, de acordo com o tipo de mudança, uma classe pode sofrer diferentes alterações,
+mudanaças que deveriam acontecer de maneira pontual. Por exemplo: Mudanças nas regras de negócio.
+
+C)A afirmação é falsa. As refatorações levam a um melhor entendimento do código, uma melhor estrutração
+e organização, porem, apresentam um desempenho inferior ao apresentado anteriormente. Por outro lado, o projeto
+estará melhor estruturado para que sofra alterações de melhoras de perfomace (tuning).
+
+D)Quando não há alteração nas funcionalidades princípais, não há mudanças no banco de dados
+e principalmente, quando a aplicação passa em todos os casos de teste, garantindo que o resultado final
+não foi alterado e também resultou em um código mais legível, estruturado e manitenível.
